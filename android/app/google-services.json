@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442390571149",
+    "project_id": "training--signin",
+    "storage_bucket": "training--signin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442390571149:android:3c989355bb471d23665ac4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442390571149-49mehaphr5inm3c2slqqn8khc264tvlv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALSm2QAYvXdVyCmkJuliQJq_qlaSeDzMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442390571149-49mehaphr5inm3c2slqqn8khc264tvlv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
